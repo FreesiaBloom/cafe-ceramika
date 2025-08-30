@@ -1,0 +1,17 @@
+{
+  "name": "@cafe-ceramika/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "empty": "0.10.1"
+  },
+  "devDependencies": {
+    "@nx/angular": "^21.4.1",
+    "@nx/eslint": "^21.4.1",
+    "@nx/jest": "^21.4.1",
+    "@nx/workspace": "21.4.1",
+    "nx": "21.4.1"
+  }
+}
